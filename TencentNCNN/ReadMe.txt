@@ -1,10 +1,10 @@
-ÏîÄ¿ËµÃ÷£º
-1. Ê¹ÓÃNCNNÔËĞĞMTCNN£¬VS2013 x64 ±àÒë£»
-2. protobuf 3.4.0 VS2013 x64 ±àÒë£»
-3. ncnn  20180704°æ±¾ VS2013 x64 ±àÒë£»
-4. HJTencentNCNN ²âÊÔMTCNN VS2013 x64 ±àÒë£»
+é¡¹ç›®è¯´æ˜ï¼š
+1. ä½¿ç”¨NCNNè¿è¡ŒMTCNNï¼ŒVS2013 x64 ç¼–è¯‘ï¼›
+2. protobuf 3.4.0 VS2013 x64 ç¼–è¯‘ï¼›
+3. ncnn  20180704ç‰ˆæœ¬ VS2013 x64 ç¼–è¯‘ï¼›
+4. HJTencentNCNN æµ‹è¯•MTCNN VS2013 x64 ç¼–è¯‘ï¼›
 5. MTCNN :https://github.com/ElegantGod/ncnn/blob/master/mtcnn
-
+6. opencv249 x64 vc12 staticlib
 
 
 
